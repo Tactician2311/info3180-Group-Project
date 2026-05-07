@@ -5,7 +5,7 @@ A full-stack dating application built with **Vue 3** + **Flask** for INFO3180.
 ## Team Members & Roles
 | Name | Role |
 |------|------|
-| [David Downey] | Project Manager / Frontend Lead |Testing Lead |
+| [David Downey-620163237] | Project Manager / Frontend Lead |Testing Lead |
 | [Kurt-William Thelwell] | Backend Lead | Deployment Lead|
 
 ## Features
