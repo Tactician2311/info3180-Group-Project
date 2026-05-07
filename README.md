@@ -84,7 +84,7 @@ Scores 0–100 based on:
 - **Location proximity** (up to 30 pts) — Haversine distance formula
 
 ## Deployed URL
-[Add your Render URL here]
+[[Add your Render URL here](https://driftdater-frontend.onrender.com)]
 
 ## Known Limitations
 - Message updates via polling (4s interval); WebSocket not implemented
