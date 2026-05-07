@@ -1,4 +1,4 @@
-# 💫 DriftDater
+# DriftDater
 
 A full-stack dating application built with **Vue 3** + **Flask** for INFO3180.
 
@@ -10,18 +10,18 @@ A full-stack dating application built with **Vue 3** + **Flask** for INFO3180.
 
 ## Features
 ### Core Features
-- ✅ User registration & login (bcrypt password hashing)
-- ✅ Profile creation & editing with photo upload
-- ✅ Smart matching algorithm (interests + age + location)
-- ✅ Like / Dislike / Pass swipe system
-- ✅ Mutual match detection
-- ✅ Real-time messaging (4s polling)
-- ✅ Favorites / Bookmarks
-- ✅ Search & discovery with filters
+- User registration & login (bcrypt password hashing)
+- Profile creation & editing with photo upload
+- Smart matching algorithm (interests + age + location)
+-  Like / Dislike / Pass swipe system
+- Mutual match detection
+-  Real-time messaging (4s polling)
+- Favorites / Bookmarks
+-  Search & discovery with filters
 
 ### Optional Features
-- ✅ **🚫 Report/Block User** — Report profiles with reasons; block to hide from feed; manage blocks in Settings
-- ✅ **🌙 Dark Mode** — Full light/dark theme with CSS variables; persisted to localStorage
+- Report/Block User** — Report profiles with reasons; block to hide from feed; manage blocks in Settings
+- Dark Mode** — Full light/dark theme with CSS variables; persisted to localStorage
 
 ## Tech Stack
 | Layer | Technology |
